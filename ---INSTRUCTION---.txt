@@ -1,0 +1,33 @@
+   #     #####   ###   ###    #     ###   ###
+   ##     #   #   ##   ##     ##     ##    #
+  ###     #   #   ###  ##    ###     ###   #
+  #  #    #  #    # # # #    #  #    # ##  #
+ #####    ####    # # # #   #####    #  #  #
+ #   ##   #  #    #  #  #   #   ##   #  ## #
+##    #   #  ##   #  #  #  ##    #   #    ##
+##   ### ###  ## ###   ### ##   ### ###   ###
+
+=======================================================================
+
+URL       = http://localhost/nama-folder/
+
+Email     = admin
+Password  = admin
+
+Email     = operator
+Password  = operator
+
+---CATATAN---
+SISTEM LOGIN CODEIGNITER 3.1.11
+CREATED  BY = ARMAN
+DATE        = 17 AGUSTUS 2020
+
+---BAHAN---
+CODEIGNITER 3.1.11
+DATA TABLE
+BOOTSRAP 4
+FONTAWESOME
+JQUERY
+TEMPLATE SB ADMIN-2
+
+### ARMAN == RAKSASA KECIL ###
